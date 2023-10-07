@@ -1,0 +1,6 @@
+C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.exe
+C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.pdb
+C:\Users\ytl_5\Desktop\CS550\Sample2019\SampleFreeGlut2019\Debug\Sample.exe
+C:\Users\ytl_5\Desktop\CS550\Sample2019\SampleFreeGlut2019\Debug\Sample.pdb
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\Debug\Sample.exe
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\Debug\Sample.pdb

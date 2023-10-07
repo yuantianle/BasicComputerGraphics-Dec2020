@@ -1,0 +1,19 @@
+﻿  sample.cpp
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(309,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(310,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(430,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(432,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(440,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(441,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(874,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(896,141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(910,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(920,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(930,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(940,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(961,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(971,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(981,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\sample.cpp(991,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\ytl_5\Desktop\CS550\WEEK 5\Sample2019\SampleFreeGlut2019\.\Debug\Sample.exe

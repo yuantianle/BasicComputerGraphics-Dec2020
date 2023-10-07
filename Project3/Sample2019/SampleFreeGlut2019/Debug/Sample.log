@@ -1,0 +1,2 @@
+﻿sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\ytl_5\Desktop\CS550\WEEK 3\Sample2019\SampleFreeGlut2019\.\Debug\Sample.exe

@@ -1,0 +1,48 @@
+﻿  sample.cpp
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(128,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(134,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(152,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(155,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(171,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(175,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(179,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(364,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\loadobjfile.h(384,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(60,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(61,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(62,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(66,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(67,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(78,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(79,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(80,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(82,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(83,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(88,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sphere.h(89,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(984,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(986,141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1005,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1015,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1025,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1035,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1060,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1070,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1080,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1090,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1109,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1118,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1119,50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1124,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1125,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1126,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1131,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1132,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1133,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1134,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\sample.cpp(1152,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\ytl_5\Desktop\CS550\WEEK 4\Sample2019\SampleFreeGlut2019\.\Debug\Sample.exe
