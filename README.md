@@ -87,4 +87,14 @@ Original Rendered Teapot:
 |-|-|-|
 |![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/6ce470ec-e1ed-4229-8a65-603434f1c791)|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/e88b57e2-a148-4b56-81b8-3f6cd8c54347)|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/f76a6360-d29f-4fb7-bee3-2efafa2cd66a)|
 
-## Project 6 - [](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/tree/main/Project6)
+## Project 6 - [Bezier curve animation](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/tree/main/Project6)
+
+<p align="center">
+  <picture><img  src="https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/fb4e5f7f-85e9-4613-b6fe-f336dbc089b9" width = 60%></picture>
+</p> 
+
+|Status| Point | Curve | Point + Curve |
+|-|-|-|-|
+|Static|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/40d80cc0-617c-49a2-bf7e-baacfd4fac86)|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/aeb52040-d409-4d0f-ac08-07280f515989)|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/0d2ed9bd-87ae-4c2d-a85c-910b26895ee9)|
+|Animated|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/ce363626-0dbd-49d1-849f-0ee435f17c60)|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/0353b8f7-9d3e-4172-814a-86b095784ddc)|![image](https://github.com/yuantianle/BasicComputerGraphics-Dec2020/assets/61530469/5a6752c4-d822-4bfe-9287-c99a9dfd7678)|
+
